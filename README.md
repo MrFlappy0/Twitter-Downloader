@@ -23,8 +23,10 @@
 <h2>Note</h2>
 <p>Be careful when using this script, as it will download the images and save them to your computer. Be aware of any copyright restrictions and usage rights before downloading any images.</p>
 
-<h2>Languages</h2>
+  <h2>Languages</h2>
     <ul>
-      <li><a  </a></li>
-      <li><a  </a></li>
+      <li><a href="https://github.com/MrFlappy0/Twitter-Downloader/blob/9b17ed77eefd532f2681f5622202ef909d271235/readme/Readme%20(FR).md">Francais</a></li>
+      <li><a href="https://github.com/MrFlappy0/Twitter-Downloader/blob/9b17ed77eefd532f2681f5622202ef909d271235/readme/Readme%20(RU).md">Русский </a></li>
     </ul>
+  </body>
+</html>
